@@ -1,0 +1,11 @@
+1. Get crew and cast clicked movie
+https://api.themoviedb.org/3/movie/594767/credits?api_key=30dc681aba95245e5a36769128a702be
+
+2.Get details of tv and movie clicked movie
+https://api.themoviedb.org/3/movie/594767?api_key=30dc681aba95245e5a36769128a702be
+
+3. Get video id clicked movie
+https://api.themoviedb.org/3/movie/594767/videos?api_key=30dc681aba95245e5a36769128a702be
+
+4. Get similar information
+https://api.themoviedb.org/3/movie/594767/similar?api_key=30dc681aba95245e5a36769128a702be&language=en-US&page=1
